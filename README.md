@@ -2,7 +2,7 @@
 
 ## 1.what is web components? 
 
-    Web Components are a set of web platform APIs that allow developers to create reusable, encapsulated, and interoperable custom HTML elements. They are a collection of standardized technologies that enable the creation of self-contained components that can be used across different web applications and frameworks.
+Web Components are a set of web platform APIs that allow developers to create reusable, encapsulated, and interoperable custom HTML elements. They are a collection of standardized technologies that enable the creation of self-contained components that can be used across different web applications and frameworks.
     
 ## 2. how to evaluate response time of a web page
 Evaluating the response time of a web page involves measuring the time it takes for the page to load and render in a user's browser. There are several tools and methods available to measure and evaluate the response time:
